@@ -1,4 +1,4 @@
-## Supported only TCP and password authorization.
+## Supported only TCP and username/password authorization.
 Config example
 ```yaml
 # socks5.yaml
