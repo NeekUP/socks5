@@ -1,0 +1,7 @@
+network: "tcp"
+address: "127.0.0.1"
+port:    7788
+auth:    "NO" #NO, PASS
+user:    ""
+pass:    ""
+mtu:     1400
